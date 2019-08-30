@@ -28,7 +28,7 @@ function Add(props) {
 
   React.useEffect(() => {
     const { name, birthdate, position } = values;
-    name && birthdate && position ? setValidationError(false) : setValidationError(true)
+    name && birthdate && position && birthdate !== 'Invalid Date' ? setValidationError(false) : setValidationError(true)
 
       return () => setValidationError(false)
     }, [values]
@@ -70,7 +70,7 @@ function Add(props) {
   };
 
   const handleBirthdayChange = prop => event => {
-    setValues({ ...values, [prop]: event });
+    setValues({ ...values, [prop]: event ? event.toLocaleString([], { year: "numeric", month: "2-digit", day: "2-digit" }) : event });
   };
 
   return (
@@ -78,7 +78,7 @@ function Add(props) {
       <h1>Add User</h1>
       <Grid item xs={12} sm={10} md={8} lg={6}>
         <span>* - required fields</span>
-        <form className='form' noValidate autoComplete="off">
+        <form className='form' autoComplete="off">
           <FormGroup>
           <TextField
             id="outlined-name"
@@ -110,7 +110,7 @@ function Add(props) {
               format="MM/dd/yyyy"
               margin="normal"
               id="date-picker-inline"
-              label="*Birthday"
+              label="*Birthday(MM/DD/YYYY)"
               value={values.birthdate}
               onChange={handleBirthdayChange('birthdate')}
               KeyboardButtonProps={{
