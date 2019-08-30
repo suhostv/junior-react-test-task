@@ -1,0 +1,14 @@
+.content-container {
+  margin: 20px;
+}
+
+.footer-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}

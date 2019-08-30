@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/list-users-with-adding.iml" filepath="$PROJECT_DIR$/.idea/list-users-with-adding.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/junior-react-test-task.iml" filepath="$PROJECT_DIR$/.idea/junior-react-test-task.iml" />
->>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
     </modules>
   </component>
 </project>

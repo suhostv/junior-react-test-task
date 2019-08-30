@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6608e04d-b235-44c5-8a52-cb60e486431e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="1c18485b-665c-4846-ac10-e9a6160f738f" name="Default Changelist" comment="" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,37 +18,65 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+=======
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/List.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/components/List.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-766">
@@ -58,6 +90,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+=======
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/styles/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/Add.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1422">
+              <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -66,26 +109,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/styles/List.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/styles/App.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/list-users-with-adding/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>right</find>
+      <find>console</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>center</replace>
+    </replaceStrings>
+  </component>
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/components/List.js" />
         <option value="$PROJECT_DIR$/src/styles/List.css" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Add.js" />
+=======
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/App.js" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/List.css" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/Add.css" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/App.css" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/components/List.js" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/components/App.js" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/index.js" />
+        <option value="$PROJECT_DIR$/list-users-with-adding/src/components/Add.js" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
       </list>
     </option>
   </component>
@@ -94,7 +172,10 @@
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -105,6 +186,7 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="list-users-with-adding" type="b2602c69:ProjectViewProjectNode" />
               <item name="list-users-with-adding" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -124,6 +206,28 @@
               <item name="list-users-with-adding" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="junior-react-test-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junior-react-test-task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junior-react-test-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junior-react-test-task" type="462c0819:PsiDirectoryNode" />
+              <item name="list-users-with-adding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junior-react-test-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junior-react-test-task" type="462c0819:PsiDirectoryNode" />
+              <item name="list-users-with-adding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junior-react-test-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junior-react-test-task" type="462c0819:PsiDirectoryNode" />
+              <item name="list-users-with-adding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
             </path>
           </expand>
           <select />
@@ -134,11 +238,27 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+=======
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/list-users-with-adding/src/styles" />
+      <recent name="$PROJECT_DIR$/list-users-with-adding/src/components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/list-users-with-adding/src" />
+      <recent name="$PROJECT_DIR$/list-users-with-adding/src/components" />
+    </key>
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,28 +277,48 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="6608e04d-b235-44c5-8a52-cb60e486431e" name="Default Changelist" comment="" />
       <created>1567150156774</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567150156774</updated>
       <workItem from="1567150158095" duration="5589000" />
+=======
+      <changelist id="1c18485b-665c-4846-ac10-e9a6160f738f" name="Default Changelist" comment="" />
+      <created>1567065591717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567065591717</updated>
+      <workItem from="1567065593425" duration="15586000" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5589000" />
+=======
+    <option name="totallyTimeSpent" value="15586000" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info id="npm" side_tool="true" />
+=======
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32962137" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.31774312" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -196,7 +336,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/index.js">
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/App.test.js">
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -205,15 +352,27 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1711">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/styles/List.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -239,6 +398,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/styles/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/Add.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/List.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/Add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-users-with-adding/src/components/List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+>>>>>>> 148ffe5152d72836d4c8b8545854d20567cd4fc0
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
