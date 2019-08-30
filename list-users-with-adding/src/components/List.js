@@ -6,7 +6,7 @@ import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
+import '../styles/List.css'
 
 function List () {
   const [users, setUsers] = React.useState([]);
@@ -71,7 +71,6 @@ function List () {
   return (
     <div>
       <h1>Welcome to the List Page!</h1>
-      <Paper className='paper'>
         <Table className='table' size="small">
           <TableHead>
             <TableRow>
@@ -106,7 +105,6 @@ function List () {
             ))}
           </TableBody>
         </Table>
-      </Paper>
       <div className='footer-buttons-container'>
         <Button variant="contained" color="primary">
           <Link to='/add'>Add User</Link>
